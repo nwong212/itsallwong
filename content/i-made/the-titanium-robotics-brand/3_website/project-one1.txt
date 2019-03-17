@@ -1,0 +1,36 @@
+Title: Website
+
+----
+
+Text: 
+
+The team website was built as a Wordpress theme. It utilizes brand elements and is stylized in a way that makes it stand out from other teams.
+<p class="center">(link://titaniumrobotics.com class:bigLink text:titaniumrobotics.com)</p>
+
+----
+
+Date: 
+
+----
+
+Intro: 
+
+----
+
+Scope: 
+
+----
+
+Media: 
+
+----
+
+Tags: 
+
+----
+
+Maincolor: 
+
+----
+
+Textcolor: 

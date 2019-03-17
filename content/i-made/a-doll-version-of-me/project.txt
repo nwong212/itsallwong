@@ -1,0 +1,37 @@
+Title: a doll version of ME
+
+----
+
+Date: 2016-05-28
+
+----
+
+Intro: 
+
+Hello!! It's me.
+<Br />
+I hand sewed a doll and its outfit and responded to Snapchats with selfies of the doll instead of me.
+
+----
+
+Scope: Sewing, Dolls, Performance?
+
+----
+
+Media: 
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Maincolor: rgb(200, 20, 5)
+
+----
+
+Textcolor: #FFF

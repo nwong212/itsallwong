@@ -1,0 +1,13 @@
+Title: More Stuff
+
+----
+
+Text: Each year, a new robot is built and given a Titanium-related name. A logo for the 2015 robot's name was designed to be used in marketing materials in order to raise visibility and memorability of the team and its robot.
+
+----
+
+Showtitle: 1
+
+----
+
+Show: 1

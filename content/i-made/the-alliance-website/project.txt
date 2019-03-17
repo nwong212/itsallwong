@@ -1,0 +1,33 @@
+Title: The Alliance's Website
+
+----
+
+Date: 
+
+----
+
+Intro: A website design for RISD's undergraduate student government, The Alliance.
+
+----
+
+Scope: 
+
+----
+
+Media: 
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Maincolor: #320aeb
+
+----
+
+Textcolor: #FFF

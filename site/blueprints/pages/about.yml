@@ -1,0 +1,10 @@
+title: About
+preset: page
+files: true
+fields:
+  brief:
+  	label: Brief (front-page)
+  	type: textarea
+  text:
+    label: Text
+    type:  textarea

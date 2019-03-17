@@ -1,0 +1,13 @@
+Title: Board Game
+
+----
+
+Text: 
+
+Each level is a different element, colored using one of the five primaries of Chinese color theory. Each color also has a corresponding element that follows the same principle: white/metal, red/fire, <em>qin</em>(green/blue)/wood, black/water, and yellow/earth.
+
+The board, instructions, and dice are hand painted in gouache, and the vase player pieces were modeled in AutoCad then printed using a MakerBot 3D printer. The title was printed using a hand carved woodblock.
+
+----
+
+Show: 1

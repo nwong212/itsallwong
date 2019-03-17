@@ -1,0 +1,7 @@
+Title: oh, no!
+----
+Text:
+
+You're trying to get somewhere, but it looks like you're lost! Lions, and Tigers, and Bears, OH MY!
+
+[Find your way back to the yellow brick road.](http://www.itsallwong.com/)

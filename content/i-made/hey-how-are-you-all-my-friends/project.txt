@@ -1,0 +1,33 @@
+Title: Hey! How are you? :D
+
+----
+
+Date: 2016-05-12
+
+----
+
+Intro: I was approached by <a href="//behance.net/raghvib">Raghvi</a> to design and code a website for her project in which she messaged each of her friends on Facebook the same message: "Hey! How are you? :D" and carried on a conversation.
+
+----
+
+Scope: website
+
+----
+
+Media: javascript, html
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Maincolor: #666
+
+----
+
+Textcolor: #FFF

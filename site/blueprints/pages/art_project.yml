@@ -1,0 +1,26 @@
+title: Art Object
+pages: false
+files:
+  sortable: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+    alt:
+      label: alt Text
+      type: text
+    linkto:
+      label: hyperlink
+      type: text
+fields:
+  date:
+    label: Date
+    type:  date
+    width: 1/2
+  size:
+    label: Size
+    type:  text
+    width: 1/2
+  materials:
+    label: Materials
+    type:  textarea

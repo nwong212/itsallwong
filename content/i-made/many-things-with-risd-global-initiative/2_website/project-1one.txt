@@ -1,0 +1,48 @@
+Title: Website
+
+----
+
+Text: 
+
+<div class="video-container v4x3">
+<iframe src="https://player.vimeo.com/video/163715987?color=ffffff&title=0&byline=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<div class="video-container iphone5-vert">
+<iframe src="https://player.vimeo.com/video/163716068?color=ffffff&title=0&byline=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+<p class="center">(link://csi.risd.edu/org/risdgi class:bigLink text:csi.risd.edu/org/risdgi)</p>
+
+----
+
+Date: 2016-04-01
+
+----
+
+Intro: 
+
+----
+
+Scope: 
+
+----
+
+Media: 
+
+----
+
+Tags: 
+
+----
+
+Maincolor: 
+
+----
+
+Textcolor: 
+
+----
+
+Show: 0

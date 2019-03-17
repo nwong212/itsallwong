@@ -1,0 +1,48 @@
+@font-face { /* REGULAR */
+    font-family: 'atc_harris';
+    src: url('../fonts/ATC-Harris/atcharris-regular-webfont.eot');
+    src: url('../fonts/ATC-Harris/atcharris-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ATC-Harris/atcharris-regular-webfont.woff2') format('woff2'),
+         url('../fonts/ATC-Harris/atcharris-regular-webfont.woff') format('woff'),
+         url('../fonts/ATC-Harris/atcharris-regular-webfont.ttf') format('truetype'),
+         url('../fonts/ATC-Harris/atcharris-regular-webfont.svg#atc_harrisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face { /* ITALIC */
+    font-family: 'atc_harris';
+    src: url('../fonts/ATC-Harris/atcharris-regularslanted-webfont.eot');
+    src: url('../fonts/ATC-Harris/atcharris-regularslanted-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ATC-Harris/atcharris-regularslanted-webfont.woff2') format('woff2'),
+         url('../fonts/ATC-Harris/atcharris-regularslanted-webfont.woff') format('woff'),
+         url('../fonts/ATC-Harris/atcharris-regularslanted-webfont.ttf') format('truetype'),
+         url('../fonts/ATC-Harris/atcharris-regularslanted-webfont.svg#atc_harrisregular_slanted') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face { /* BOLD */
+    font-family: 'atc_harris';
+    src: url('../fonts/ATC-Harris/atcharris-bold-webfont.eot');
+    src: url('../fonts/ATC-Harris/atcharris-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ATC-Harris/atcharris-bold-webfont.woff2') format('woff2'),
+         url('../fonts/ATC-Harris/atcharris-bold-webfont.woff') format('woff'),
+         url('../fonts/ATC-Harris/atcharris-bold-webfont.ttf') format('truetype'),
+         url('../fonts/ATC-Harris/atcharris-bold-webfont.svg#atc_harrisbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face { /* BOLD ITALIC */
+    font-family: 'atc_harris';
+    src: url('../fonts/ATC-Harris/atcharris-boldslanted-webfont.eot');
+    src: url('../fonts/ATC-Harris/atcharris-boldslanted-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ATC-Harris/atcharris-boldslanted-webfont.woff2') format('woff2'),
+         url('../fonts/ATC-Harris/atcharris-boldslanted-webfont.woff') format('woff'),
+         url('../fonts/ATC-Harris/atcharris-boldslanted-webfont.ttf') format('truetype'),
+         url('../fonts/ATC-Harris/atcharris-boldslanted-webfont.svg#atc_harrisbold_slanted') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}

@@ -1,0 +1,7 @@
+title: Collections
+preset: pages
+pages:
+  template: art_project
+  sort: date desc
+  num:
+    mode: date

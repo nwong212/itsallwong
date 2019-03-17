@@ -1,0 +1,6 @@
+Title: "The Pit"
+
+----
+
+Text:
+The booth setup for competitions allows for the large flatscreen to play live feeds of our own matches and loops a slideshow when our robot isn't competing.

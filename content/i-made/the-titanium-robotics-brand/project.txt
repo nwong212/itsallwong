@@ -1,0 +1,43 @@
+Title: the Titanium Robotics Brand
+
+----
+
+Intro: Titanium Robotics is a veteran FIRST Robotics team that strives to educate the next generation of young scientists. They compete in a number of competitions and encourage community members of all genders and ages to be passionate about science, technology, engineering, and mathematics.
+
+----
+
+Tags: web,brand,print,digital
+
+----
+
+Text: 
+
+I completed a new brand identity for Titanium Robotics with a Brandbook for continuity. After the team renamed themselves to Titanium Robotics, I was asked to refresh the use of the bird logo and implement a new identity using blue and white rather than red and gold.
+
+The rebrand followed a four-year plan for implementation. Over four years, we created a recognition of the new team among the FRC community. We gathered a new sub-team, updated social media accounts, created new graphics, designed a new booth setup, and [created a new website*](//titaniumrobotics.com). The team won the “Imagery Award” at the LA competition, an award that celebrates successful team imagery and identity.
+
+I also gathered a subteam to design a new booth setup that doubles as a "pit" for robot repairs and checkups and a location where judges and other teams can collect information about the team.
+
+(link://titaniumrobotics.com class:bigLink text:titaniumrobotics.com)
+
+<small>*I have since left the team, so any differences in the design of the website from what the screenshots show were directed by the new leadership.</small>
+
+----
+
+Date: 2014-09-20
+
+----
+
+Media: Digital, Print
+
+----
+
+Scope: Case Study, Brand Identity, Collateral Design, Web Design, Web Development, Signage, Copywriting
+
+----
+
+Maincolor: #0067C6
+
+----
+
+Textcolor: #FFF
