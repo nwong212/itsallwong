@@ -1,5 +1,9 @@
 <?php
-
+return [
+  'panel' =>[
+    'install' => true
+  ]
+];
 // direct access protection
 // if(!defined('KIRBY')) die('Direct access is not allowed');
 //
