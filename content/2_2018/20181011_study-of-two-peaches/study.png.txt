@@ -11,3 +11,7 @@ Alt:
 ----
 
 Linkto: 
+
+----
+
+Template: object

@@ -1,0 +1,16 @@
+title: object
+
+
+
+sortable: true
+
+fields:
+    caption:
+      label: Caption
+      type: textarea
+    alt:
+      label: alt Text
+      type: text
+    linkto:
+      label: hyperlink
+      type: text

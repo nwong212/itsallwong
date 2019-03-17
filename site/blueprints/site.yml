@@ -1,3 +1,24 @@
 title: Site
-preset: pages
-unlisted: true
+columns:
+    - width: 1/1
+        sections:
+            published:
+                layout: cards
+                headline: Listed
+                type: pages
+                status: listed
+                info: '{{ page.date.toDate('Y-m-d') }}'
+    - width: 1/2
+        sections:
+            drafts:
+                headline: Drafts
+                type: pages
+                status: draft
+                info: " {{ page.date.toDate('Y-m-d') }}"
+    - width: 1/2
+        sections:
+            unlisted:
+                headline: Unlisted
+                type: pages
+                status: unlisted
+                info: " {{ page.date.toDate('Y-m-d') }}"

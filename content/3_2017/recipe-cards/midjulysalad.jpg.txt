@@ -15,3 +15,7 @@ Linkto:
 ----
 
 Sort: 4
+
+----
+
+Template: object

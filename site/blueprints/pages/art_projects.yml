@@ -1,7 +1,23 @@
 title: Collections
-preset: pages
-pages:
-  template: art_project
-  sort: date desc
-  num:
-    mode: date
+columns:
+
+    - width: 2/3
+        sections:
+            published:
+                layout: cards
+                headline: Objects
+                type: pages
+                status: listed
+                sortBy: date desc
+                templates: art_project
+                info: '{{ page.date.toDate('Y-m-d') }}'
+
+    - width: 1/3
+        sections:
+            drafts:
+                headline: Draft Objects
+                type: pages
+                status: draft
+                sortBy: date desc
+                templates: art_project
+                info: " {{ page.date.toDate('Y-m-d') }}"
