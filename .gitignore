@@ -35,3 +35,8 @@ Icon
 # License
 # ---------------
 /site/config/.license
+
+# Kirby Folder —managed by getkirby/kirby.git
+# ---------------
+/kirby/*
+!/kirby
