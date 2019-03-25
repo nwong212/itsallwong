@@ -100,9 +100,7 @@
 
 <body class="art <?php echo $page->slug(); if($page->intendedTemplate() == 'project'): ?> temp-Project<?php endif; if($tagged == true):?> tagged<?php endif; ?>">
       <header class="come-in-top">
-          <section class="menu-box">
               <?php snippet('menu');?>
-          </section>
       </header>
 <main>
 <div class="cd-index cd-main-content">

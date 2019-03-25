@@ -20,12 +20,12 @@
     -webkit-touch-callout: none;
     -o-user-select: none
 }
-
+/*
 @media screen and (min-width:85em) {
     body {
         padding-top: 97px
     }
-}
+} */
 
 @media screen and (min-width:40em) {
     .js .nav-collapse {
@@ -56,6 +56,10 @@ body.error {
         display: none
     }
 
+    main::after, main::before {
+        height:10px;
+    }
+
     header.come-in-top {
         -webkit-transform: translate3D(0, 0, 0) !important;
         -ms-transform: translate3D(0, 0, 0) !important;
@@ -66,15 +70,15 @@ body.error {
     }
 
     header {
-        font-size: .973em;
-        width: 100%;
-        width: calc(100% - 20px);
-        margin: 0 10px;
-        padding-bottom:0;
+        /* font-size: .973em; */
+        width: 100vw;
+        box-sizing:border-box;
+        margin: 0;
+        padding: 10px 10px 0;
     }
 
     a.bigLink {
-        font-size: 1em;
+        /* font-size: 1em; */
         margin-left: 0
     }
 
@@ -98,7 +102,7 @@ body.error {
     }
 
     .project .more, body {
-        font-size: 1rem
+        /* font-size: 1rem */
     }
 
     .project .more span {
@@ -136,7 +140,11 @@ body.error {
     }
 
     section.gallery div.caption {
-        font-size: .694em
+        /* font-size: .694em */
+    }
+
+    .gallery .project {
+        padding:5px 0;
     }
 
     .rightfloat .gallery, section.gallery.one1 .project:nth-of-type(even),
@@ -161,10 +169,6 @@ body.error {
 
     nav li::after {
         visibility: hidden
-    }
-
-    main {
-        padding: 0 10px
     }
 
     .meta, .text, section.project-content .meta, section.project-content .text {
@@ -217,7 +221,7 @@ body.error {
         margin-left: 20px;
         width: 90%
     }
-
+/*
     .newer, .older {
         position: relative;
         z-index: 0;
@@ -247,7 +251,7 @@ body.error {
         width: 100%;
         margin: auto;
         padding: 0 .833rem .833rem
-    }
+    } */
 
     .main-info {
         float: left;
@@ -266,7 +270,8 @@ body.error {
         width: 100% !important;
         height: auto;
         border-top: none;
-        text-align: center
+        text-align: center;
+        margin:0;
     }
 
     footer [class^=sector]::before, nav li::after {
@@ -282,7 +287,7 @@ body.error {
     .scope {
         width: 100%;
         padding: 0;
-        font-size: .833em
+        /* font-size: .833em */
     }
 
     .scope h4 {
@@ -293,9 +298,10 @@ body.error {
         display: none !important
     }
 
-    .extras .grid-item, .extras .grid-sizer {
+    /* .extras .grid-item, .extras .grid-sizer,
+    .art .projects .grid-item, .art .projects .grid-sizer {
         width: calc(50% - 8px)
-    }
+    } */
 }
 
 @media screen and (max-width:40em) {
@@ -306,27 +312,66 @@ body.error {
     header {
         overflow: scroll;
         max-height: 100vh;
-        padding: 50px 0 0;
+        padding:0 0;
         min-height: 50px;
     }
 
-    nav {
-        margin: 1em 0 0;
+    .sub-block {
+        width:50%;
+        left:2.5vw;
+        top:3vw;
+    }
+    .art .projects .grid-item img {
+        max-width:95vw;
+    }
+    main {
         padding: 0;
-        z-index: 999;
+        width:95vw;
     }
 
+    /* nav {
+        padding:0 0;
+        margin: 0;
+        z-index: 100;
+    } */
+
+    nav {
+      height:100%;
+    }
+
+    .menu-box {
+        width:auto;
+        height:auto;
+        position:relative;
+
+        padding:0 0;
+        margin: 0;
+        z-index: 100;
+        width:80vw;
+        background:#FFF;
+        padding:2.5vh;
+        border:1px solid rgb(30, 30, 100);
+        top:10vw;
+        left:10vw;
+        position:absolute;
+    }
+    .js-nav-active .menu-box {
+        height:calc(100vh - 20vw);
+    }
     a.nav-toggle {
         position: absolute;
-        right: 0;
+        right: 2.5vw;
+        z-index:999;
         display: block;
         width: 30px;
         height: 30px;
         /* z-index: 1000; */
         margin: .3% 0 0;
-        top: 5px;
+        top: 1.5vw;
         -webkit-transition: right .3s, top .3s;
         transition: right .3s, top .3s;
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
     }
 
     a.nav-toggle::after, a.nav-toggle::before {
@@ -343,7 +388,7 @@ body.error {
         background: #999;
     }
     .art a.nav-toggle::after, .art a.nav-toggle::before {
-        background:#FF0000;
+        background:rgb(30, 30, 100);
     }
 
     a.nav-toggle::before {
@@ -366,15 +411,15 @@ body.error {
     }
 
     a.nav-toggle.active::after {
-        top: 16px;
+        top: 15px;
         -webkit-transition: -webkit-transform .3s, top .3s;
         transition: transform .3s, top .3s;
         -webkit-transform: rotate(-45deg);
         transform: rotate(-45deg)
     }
     a.nav-toggle.active {
-        top: 3em;
-        right:45px;
+        top: 14vw;
+        right:14vw;
         -webkit-transition: right .3s, top .3s;
         transition: right .3s, top .3s;
     }
@@ -403,35 +448,39 @@ body.error {
     nav ul, nav ul.links {
         float: none;
         width: 100%;
-        height:calc(100vh - 50px - 1em);
+        height:calc(100vh - 20vw);
         padding:0;
-        padding-top:200px;
+        /* padding-top:20vh; */
         overflow:scroll;
     }
 
     ul.hi {
-        font-size: 1.5em
+        /* font-size: 1.5em */
     }
 
     nav ul.links li {
         display: block;
-        width: 100%;
-        margin: 2em 0;
-        text-align: right;
-        float: left;
-
+        margin: 2em auto;
+        text-align: center;
+        /* float: right;
+        position:relative;
+        right:0;
 
         -webkit-transform: rotate(-40deg);
         -moz-transform: rotate(-40deg);
         -ms-transform: rotate(-40deg);
-        -o-transform: rotate(-40deg);
+        -o-transform: rotate(-40deg); */
+    }
+
+    nav ul.links li:first-of-type {
+      margin-top:25vh;
     }
 
     nav ul.links li a {
         display: inline-block;
         /*width: 100%;*/
         /*padding: .2em 0;*/
-        font-size: 2.5em;
+        /* font-size: 2em; */
         border: 2px solid transparent
     }
 
@@ -444,13 +493,23 @@ body.error {
     }
 
     .main-info p, nav {
-        width: 100%
+        width: 100%;
+    }
+
+    /* .art .projects .grid-item, .art .projects .grid-sizer {
+        width:100%;
+    } */
+    .js-nav-active body {
+        overflow:hidden;
     }
 }
 
-@media screen and (max-height:360px) {
-    nav ul {
-        padding-bottom:300px;
+@media screen and (max-height:500px) and (max-width:40em) {
+    nav ul.links:after{
+        content:' ';
+        height:5em;
+        display:block;
+        float:left;
     }
 }
 

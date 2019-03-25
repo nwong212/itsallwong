@@ -24,7 +24,7 @@ http://getkirby.com/license
 
 */
 
-c::set('license', 'K2-PERSONAL-8628769856b556da30b81f17cf0fe56f');
+// c::set('license', 'K2-PERSONAL-8628769856b556da30b81f17cf0fe56f');
 
 
 /*

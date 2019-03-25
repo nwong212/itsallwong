@@ -7,11 +7,13 @@ $items = $pages->visible();
 if($items->count()):
 
 ?>
-<nav class="navigation">
-	<ul class="links section-1-2">
-		<?php foreach($items as $item): ?><!--
-			--><li class="link"><a<?php e($item->isOpen(), ' class="active"') ?> href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a></li><!--.-->
-		<?php endforeach ?>
-	</ul>
-</nav>
+<section class="menu-box">
+  <nav class="navigation">
+  	<ul class="links">
+  		<?php foreach($items as $item): ?><!--
+  			--><li class="link"><a<?php e($item->isOpen(), ' class="active"') ?> href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a></li><!--.-->
+  		<?php endforeach ?>
+  	</ul>
+  </nav>
+</section>
 <?php endif; ?>

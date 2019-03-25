@@ -84,9 +84,10 @@
         //   });
         // })
 		//RESPONSIVE-NAV
-		var nav = responsiveNav(".navigation", {
+		var nav = responsiveNav(".menu-box", {
 			label: "",
 			closeOnNavClick: true,
+      transition: 450,
 		});
 
         // //HEADROOM.JS
