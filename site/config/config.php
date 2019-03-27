@@ -1,34 +1,6 @@
 <?php
-// direct access protection
-// if(!defined('KIRBY')) die('Direct access is not allowed');
-//
-// Dir::$defaults['permissions'] = 0775;
-//
-// c::set('panel.stylesheet', 'assets/styles/panel.min.css');
 
 /*
-
----------------------------------------
-License Setup
----------------------------------------
-
-Please add your license key, which you've received
-via email after purchasing Kirby.
-
-If you have no license yet, please buy one:
-http://getkirby.com/buy and support an indie developer.
-
-You are not allowed to run a website without a valid license key.
-Please read the End User License Agreement for more information:
-http://getkirby.com/license
-
-*/
-
-// c::set('license', 'K2-PERSONAL-8628769856b556da30b81f17cf0fe56f');
-
-
-/*
-
 ---------------------------------------
 URL Setup
 ---------------------------------------
@@ -44,14 +16,12 @@ Make sure to write the url without a trailing slash.
 To work with relative URLs, you can set the URL like this:
 
 c::set('url', '/');
-
 */
+
 
 // c::set('url', 'http://localhost/kirby/_PRODUCTION/itsallwong.com');
 
-
 /*
-
 ---------------------------------------
 Subfolder Setup
 ---------------------------------------
@@ -124,7 +94,7 @@ c::set('url', 'https://yourdomain.com');
 
 */
 
-// c::set('ssl', true);
+c::set('ssl', true);
 
 
 /*
@@ -138,8 +108,8 @@ embedded flash videos from youtube or vimeo
 
 */
 
-// c::set('kirbytext.video.width', 480);
-// c::set('kirbytext.video.height', 358);
+c::set('kirbytext.video.width', 480);
+c::set('kirbytext.video.height', 358);
 
 
 /*
@@ -184,19 +154,19 @@ texts which are parsed by kirbytext()
 */
 
 // smartypants
-// c::set('smartypants', true);
-// c::set('smartypants.attr', 1);
-// c::set('smartypants.doublequote.open', '&#8220;');
-// c::set('smartypants.doublequote.close', '&#8221;');
-// c::set('smartypants.space.emdash', ' ');
-// c::set('smartypants.space.endash', ' ');
-// c::set('smartypants.space.colon', '&#160;');
-// c::set('smartypants.space.semicolon', '&#160;');
-// c::set('smartypants.space.marks', '&#160;');
-// c::set('smartypants.space.frenchquote', '&#160;');
-// c::set('smartypants.space.thousand', '&#160;');
-// c::set('smartypants.space.unit', '&#160;');
-// c::set('smartypants.skip', 'pre|code|kbd|script|math');
+c::set('smartypants', true);
+c::set('smartypants.attr', 1);
+c::set('smartypants.doublequote.open', '&#8220;');
+c::set('smartypants.doublequote.close', '&#8221;');
+c::set('smartypants.space.emdash', ' ');
+c::set('smartypants.space.endash', ' ');
+c::set('smartypants.space.colon', '&#160;');
+c::set('smartypants.space.semicolon', '&#160;');
+c::set('smartypants.space.marks', '&#160;');
+c::set('smartypants.space.frenchquote', '&#160;');
+c::set('smartypants.space.thousand', '&#160;');
+c::set('smartypants.space.unit', '&#160;');
+c::set('smartypants.skip', 'pre|code|kbd|script|math');
 
 
 
@@ -263,11 +233,11 @@ c::set('cache.ignore', array('search', 'some/other/uri/to/ignore'));
 
 */
 
-// c::set('cache', true);
-// c::set('cache.autoupdate', true);
-// c::set('cache.data', true);
-// c::set('cache.html', true);
-// c::set('cache.ignore', array());
+c::set('cache', true);
+c::set('cache.autoupdate', true);
+c::set('cache.data', true);
+c::set('cache.html', true);
+c::set('cache.ignore', array());
 
 
 /*
@@ -301,7 +271,7 @@ go to your homepage afterwards to display it on refresh.
 
 */
 
-c::set('troubleshoot', true);
+// c::set('troubleshoot', true);
 
 
 /*
@@ -317,7 +287,7 @@ php errors there.
 
 */
 
-c::set('debug', true);
+// c::set('debug', true);
 
 
 /*
