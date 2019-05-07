@@ -27,7 +27,7 @@
         </aside>
         <div class="project-container">
             <?php
-                if ($page->images()->count() == 1):
+                if ($page->selected()->toFiles()->count() == 1):
                     snippet('gallery-hero',
                     array('section'=>$page));
                 else:

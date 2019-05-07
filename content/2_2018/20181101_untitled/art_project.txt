@@ -2,6 +2,22 @@ Title: Untitled
 
 ----
 
+Selected: 
+
+- 10.jpg
+
+----
+
+Inv: NW2018.005
+
+----
+
+Cover: 
+
+- 10.jpg
+
+----
+
 Date: 2018-11-01
 
 ----
@@ -11,3 +27,50 @@ Size:
 ----
 
 Materials: Sumi ink on tracing paper collaged onto acrylic paint on canvas
+
+----
+
+Listed-price: 400
+
+----
+
+Sold-price: 400
+
+----
+
+Comment: Given to Marion Fong as Gift
+
+----
+
+Current-past: 
+
+- 
+  date_moved: 2018-12-26
+  owner: Marion Fong
+  location: 2170 Courtland Ave. San Marino, CA 91108
+  notes: Gift to Marion Fong
+- 
+  date_moved: 2018-07-02
+  owner: Nathan Wong
+  location: Benson Hall Senior Studio
+  notes: Created
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
+
+----
+
+Current-location: 
+
+----
+
+Price: 

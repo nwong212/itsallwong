@@ -2,6 +2,22 @@ Title: FUZZ
 
 ----
 
+Selected: 
+
+- img_3389.jpg
+
+----
+
+Inv: NW2018.003
+
+----
+
+Cover: 
+
+- img_3389.jpg
+
+----
+
 Date: 2018-05-23
 
 ----
@@ -11,3 +27,23 @@ Size: Variable Size
 ----
 
 Materials: Screenprinted wallpaper
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 

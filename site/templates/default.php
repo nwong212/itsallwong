@@ -13,7 +13,7 @@
 
     <article class="text section-1-2 <?php if($page->hasImages()): ?>leftfloat <?php else: ?>centerfloat<?php endif; ?>">
         <!-- <h1 class="title"><?php echo html($page->title()) ?></h1> -->
-        <?php echo kirbytext($page->text()->widont()) ?>
+        <?php echo $page->text()->kirbytext() ?>
     </article>
 
 </section>

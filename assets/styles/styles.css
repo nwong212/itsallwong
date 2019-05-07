@@ -940,8 +940,10 @@ section.gallery.one1 {
   position: relative;
 }
 
-.art .projects figure figcaption {
-  /* font-size: 1.25em; */
+figure figcaption {
+  font-size: 0.75em;
+  margin-top:10px;
+  margin-bottom:0;
   /* color: #000; */
 }
 

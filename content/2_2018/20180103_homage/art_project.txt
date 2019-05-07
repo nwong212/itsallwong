@@ -2,7 +2,51 @@ Title: An Homage to My First Love
 
 ----
 
+Selected: 
+
+- homage.jpg
+
+----
+
+Cover: 
+
+- homage.jpg
+
+----
+
 Date: 2018-01-03
+
+----
+
+Size: 24" x 36"
+
+----
+
+Materials: Oil on Canvas
+
+----
+
+Inv: NW2018.001
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Oil on Canvas
-
-----
-
-Size: 24" x 36"
-
-----
-
-Materials: Oil on Canvas

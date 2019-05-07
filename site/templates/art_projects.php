@@ -40,10 +40,7 @@ snippet('art_header');
   <li class="grid-item project item-<?php echo $n ?>">
 		<a class="exempt" href="<?php echo $project->url() ?>">
 		  	<figure>
-				<img src="<?php echo $project->images()->first()->resize(1500, null, 100)->url() ?>" />
-				<!-- <figcaption>
-					<?php //echo kirbytext($project->title())?>
-				</figcaption> -->
+          <?php echo $project->cover()->toFile()?>
 			</figure>
 		</a>
   </li>

@@ -1,5 +1,5 @@
       <section class="gallery one1 hero">
-       <?php foreach($section->images()->sortBy('sort', 'asc') as $img): ?>
+       <?php foreach($section->selected()->toFiles()->sortBy('sort', 'asc') as $img): ?>
             <figure class="project ">
                 <?php
 

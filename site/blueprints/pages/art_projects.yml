@@ -10,7 +10,10 @@ columns:
                 status: listed
                 sortBy: date desc
                 templates: art_project
-                info: '{{ page.date.toDate('Y-m-d') }}'
+                info: "{{ page.inv }}"
+                image:
+                    back: white
+                    ratio: 2/1
 
     - width: 1/3
         sections:
@@ -20,4 +23,7 @@ columns:
                 status: draft
                 sortBy: date desc
                 templates: art_project
-                info: " {{ page.date.toDate('Y-m-d') }}"
+                info: "{{ page.inv }}"
+                image:
+                    back: white
+                    ratio: 2/1

@@ -1,0 +1,73 @@
+Title: Origin
+
+----
+
+Selected: 
+
+- origin.jpg
+
+----
+
+Inv: NW2019.004
+
+----
+
+Cover: 
+
+- origin.jpg
+
+----
+
+Date: 2019-04-28
+
+----
+
+Size: 22" x 30"
+
+----
+
+Materials: Acrylic, sumi ink, graphite, mica powder, kozo paper on Arches 88
+
+----
+
+Listed-price: 300
+
+----
+
+Comment: +100 framed
+
+----
+
+Current-past: 
+
+- 
+  date_moved: 2019-04-30
+  owner: Nathan Wong
+  location: Benson Hall Senior Studio
+  notes: Deinstallation
+- 
+  date_moved: 2019-04-24
+  owner: Nathan Wong
+  location: Woods-Gerry Gallery RISD
+  notes: Senior Exhibition
+- 
+  date_moved: 2019-04-22
+  owner: Nathan Wong
+  location: Benson Hall Senior Studios
+  notes: Created
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
+
+----
+
+Inventory: NW19-001

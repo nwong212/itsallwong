@@ -15,7 +15,7 @@ Follow me on <a href="http://instagram.com/cryweiwei">Instagram</a> or (link:htt
 <br />
 <br />
 
-Made with (link:http://getkirby.com text:Kirby)
+Made with (link: http://getkirby.com text: Kirby)
 
 ----
 

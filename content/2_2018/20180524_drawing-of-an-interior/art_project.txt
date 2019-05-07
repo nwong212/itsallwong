@@ -2,6 +2,22 @@ Title: Drawing of an Interior
 
 ----
 
+Selected: 
+
+- drawingofaninterior.jpg
+
+----
+
+Inv: NW2018.004
+
+----
+
+Cover: 
+
+- drawingofaninterior.jpg
+
+----
+
 Date: 2018-05-24
 
 ----
@@ -11,3 +27,23 @@ Size: 11" x 16.5"
 ----
 
 Materials: Black and brown ink on handmade dyed wove paper
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 

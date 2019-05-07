@@ -1,4 +1,4 @@
-<?php foreach($section->files()->sortBy('sort', 'asc') as $file): ?>
+<?php foreach($section->selected()->toFiles()->sortBy('sort', 'asc') as $file): ?>
  <div class="grid-item">
      <figure class="project">
          <?php
@@ -17,19 +17,12 @@
                ));
             }?>
 
-         <?php if(!$title->empty() || !$caption->empty()):?>
-             <div class="caption">
-                 <?php
-
-                   if(!$title->empty()):
-                     echo "<h4>$title</h4>";
-                   endif;
-                   //caption stuff- title above, actual caption below
-                   if(!$caption->empty()):
-                       echo "<p>$caption</p>";
-                   endif;
-                   ?>
-             </div>
+         <?php if($caption->isNotEmpty()):?>
+             <figcaption>
+               <?php
+                  echo $caption;
+               ?>
+             </figcaption>
          <?php endif; ?>
      </figure>
  </div>

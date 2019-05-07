@@ -271,7 +271,7 @@ go to your homepage afterwards to display it on refresh.
 
 */
 
-// c::set('troubleshoot', true);
+c::set('troubleshoot', true);
 
 
 /*
@@ -287,7 +287,7 @@ php errors there.
 
 */
 
-// c::set('debug', true);
+c::set('debug', true);
 
 
 /*

@@ -1,23 +1,137 @@
 title: Object
 num: '{{ page.date.toDate("Ymd") }}'
-columns:
-  - width: 2/3
-        sections:
-            Images:
+
+tabs:
+  Object:
+    columns:
+      - width: 2/3
+            fields:
+                selected:
+                    label: Selected Images
+                    type: files
+                    layout: cards
+                    image:
+                        back: white
+                        ratio: 3/2
+
+      - width: 1/3
+          fields:
+            inv:
+              label: Inventory Number
+              type: text
+              width: 1/4
+#------------------------------------------------
+            line:
+              type: line
+            cover:
+                label: Cover Image
+                type: files
+                max: 1
+                layout: cards
+                image:
+                    back: white
+                    ratio: 3/2
+            date:
+              label: Date
+              type:  date
+              width: 1/2
+            size:
+              label: Size
+              type:  text
+              width: 1/2
+            materials:
+              label: Materials
+              type:  textarea
+      - width: 1
+          fields:
+#------------------------------------------------
+            linePrice:
+              type: line
+    #PRICE Section
+            listed_price:
+              width: 1/4
+              label: List Price (USD $)
+              type: number
+            sold_price:
+              width: 1/4
+              label: Value (USD $)
+              type: number
+            comment:
+              width: 1/2
+              label: Notes
+              type: textarea
+              buttons: false
+#------------------------------------------------
+            line_location:
+              type: line
+#Locations Section
+            current_past:
+              label: Location
+              type: structure
+              fields:
+                date_moved:
+                  label: Date
+                  type: date
+                  width: 1/2
+                owner:
+                  label: Owner
+                  type: text
+                  width: 1/2
+                location:
+                  label: Location (street address or institution)
+                  type: text
+                  width: 1/2
+                notes:
+                  label: Notes
+                  type: text
+                  width: 1/2
+#Exhibition Section
+            exhibitionImages:
+                label: Exhibition Images
                 type: files
                 layout: cards
-                template: object
+                template: installationShots
 
-  - width: 1/3
-        fields:
-          date:
-            label: Date
-            type:  date
-            width: 1/2
-          size:
-            label: Size
-            type:  text
-            width: 1/2
-          materials:
-            label: Materials
-            type:  textarea
+            exhibition_history:
+              label: Exhibition History
+              type: structure
+              fields:
+                exhibitionOpening:
+                  label: Opening Date
+                  type: date
+                  width: 1/3
+                exhibitionLocation:
+                  label: Location
+                  type: text
+                  width: 1/3
+                exhibitionContact:
+                  label: Main Contact Person & Info
+                  type: text
+                  width: 1/3
+                exhibitionNotes:
+                  label: Notes
+                  type: textarea
+                  buttons: false
+                  width: 1
+
+#------------------------------------------------
+            install_care:
+              type: line
+
+            installation:
+              label: Installation and Care Instructions
+              width: 1
+              type: textarea
+              buttons: false
+
+
+  Files:
+    sections:
+      files:
+          label: Files
+          type: files
+          layout: cards
+          template: object
+          image:
+              back: white
+              ratio: 3/2
