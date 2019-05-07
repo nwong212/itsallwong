@@ -2,7 +2,51 @@ Title: In the Garden
 
 ----
 
+Selected: 
+
+- wong-nathan_03.jpg
+
+----
+
+Inv: 
+
+----
+
+Cover: 
+
+- wong-nathan_03.jpg
+
+----
+
 Date: 2017-12-06
+
+----
+
+Size: 6" x 9.5"
+
+----
+
+Materials: Silkscreen
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Silkscreen
-
-----
-
-Size: 6" x 9.5"
-
-----
-
-Materials: Silkscreen

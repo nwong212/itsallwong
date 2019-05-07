@@ -2,7 +2,51 @@ Title: Irrawaddy
 
 ----
 
+Selected: 
+
+- irrawady.jpg
+
+----
+
+Inv: 
+
+----
+
+Cover: 
+
+- irrawady.jpg
+
+----
+
 Date: 2017-10-13
+
+----
+
+Size: 12.5" x 9.5"
+
+----
+
+Materials: Photopolymer graveur
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Photopolymer Graveur
-
-----
-
-Size: 12.5" x 9.5"
-
-----
-
-Materials: Photopolymer graveur

@@ -2,7 +2,51 @@ Title: Poppy Study
 
 ----
 
+Selected: 
+
+- Wong,Nathan_072.jpg
+
+----
+
+Inv: 
+
+----
+
+Cover: 
+
+- Wong,Nathan_072.jpg
+
+----
+
 Date: 2017-11-09
+
+----
+
+Size: 10" x 20"
+
+----
+
+Materials: Silkscreen and photopolymer graveur
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Silkscreen,Photopolymer Graveur
-
-----
-
-Size: 10" x 20"
-
-----
-
-Materials: Silkscreen and photopolymer graveur

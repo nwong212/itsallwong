@@ -2,7 +2,51 @@ Title: Inle
 
 ----
 
+Selected: 
+
+- Wong,Nathan_02.jpg
+
+----
+
+Inv: 
+
+----
+
+Cover: 
+
+- Wong,Nathan_02.jpg
+
+----
+
 Date: 2017-10-12
+
+----
+
+Size: 19" x 12.5"
+
+----
+
+Materials: Photopolymer graveur
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Intaglio,Photo Polymer
-
-----
-
-Size: 19" x 12.5"
-
-----
-
-Materials: Photopolymer graveur

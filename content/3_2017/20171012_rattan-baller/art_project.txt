@@ -2,7 +2,51 @@ Title: Rattan Baller
 
 ----
 
+Selected: 
+
+- wong-nathan_08.jpg
+
+----
+
+Inv: 
+
+----
+
+Cover: 
+
+- wong-nathan_08.jpg
+
+----
+
 Date: 2017-10-12
+
+----
+
+Size: 10.5" x 12"
+
+----
+
+Materials: Etching
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Hydrocoat,Intaglio,Spit-bite
-
-----
-
-Size: 10.5" x 12"
-
-----
-
-Materials: Etching

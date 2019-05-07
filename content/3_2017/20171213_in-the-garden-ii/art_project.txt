@@ -2,7 +2,51 @@ Title: In the Garden II
 
 ----
 
+Selected: 
+
+- wong-nathan_04.jpg
+
+----
+
+Inv: 
+
+----
+
+Cover: 
+
+- wong-nathan_04.jpg
+
+----
+
 Date: 2017-12-13
+
+----
+
+Size: 10" x 17.5"
+
+----
+
+Materials: Monotype
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+----
+
+Installation: 
 
 ----
 
@@ -15,11 +59,3 @@ Text:
 ----
 
 Tags: Monotype
-
-----
-
-Size: 10" x 17.5"
-
-----
-
-Materials: Monotype
