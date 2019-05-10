@@ -1,0 +1,72 @@
+Title: Printmaking Senior Exhibition
+
+----
+
+Objectsselect: 
+
+- 2019/big-welcome
+- 2019/origin
+- 2019/the-path-ahead
+- 2019/wisdom-fist
+- 2019/intermediary
+
+----
+
+Objectsimage: true
+
+----
+
+Objectsinv: true
+
+----
+
+Objectsprice: true
+
+----
+
+Objectsmaterial: true
+
+----
+
+Objectsinstall: false
+
+----
+
+Objectslocation: false
+
+----
+
+Objects: 
+
+- 
+  objectsselect:
+    - 
+      text: An Homage to My First Love
+      link: /pages/2018+homage
+      id: 2018/homage
+      info: ""
+      image:
+        ratio: 3/2
+        back: pattern
+        cover: false
+        url: >
+          http://localhost:8888/itsallwong/media/pages/2018/homage/2032684181-1552938758/homage-100x66-q90.jpg?t=1552938758
+      icon:
+        type: page
+        ratio: 3/2
+        back: pattern
+      hasChildren: false
+  objectsprice: Include
+  objectspricenew: null
+  objectsinv:
+    - Include Inventory Number
+  objectsmaterial:
+    - Include Materials
+  objectsinstall:
+    - 'Include Installation & Care Instructions'
+  objectslocation:
+    - Include Current Location
+
+----
+
+Objectspricenew: 

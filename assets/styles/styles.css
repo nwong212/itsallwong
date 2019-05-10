@@ -137,6 +137,34 @@ body.home {
   border-radius: 100%;
 }
 
+table {
+  font-size: 12px;
+  color:inherit;
+  background:transparent;
+  border-collapse: collapse;
+  min-width: 100%;
+  text-align: left;
+}
+
+table thead {
+  border-bottom: 2px solid;
+}
+table tr {
+  border-bottom: 1px solid;
+}
+table th, table td {
+  padding: 15px;
+  background:transparent;
+}
+table th {
+  text-transform: uppercase;
+  text-align:left;
+}
+table th:first-of-type,
+table td:first-of-type {
+  border-right:1px solid;
+}
+
 a,
 a:visited {
   position: relative;
@@ -393,6 +421,10 @@ nav li {
   margin: 0 .2em;
   padding: 0 .25em .25em;
 }
+nav li:first-of-type {
+  margin-left:0;
+  padding-left:0;
+}
 
 nav li::after {
   font-weight: 700;
@@ -525,10 +557,9 @@ section.hero {
   vertical-align: middle;
 }
 
-section.hero {
-  width: 99%;
-  padding: 3rem 15px;
-  ;
+section.gallery {
+  width:100%;
+  padding: 3rem 0;
 }
 
 article.about::after {
@@ -635,7 +666,6 @@ main {
 .sub-block:hover {
   border: 1px solid;
   background: #fff;
-  ;
 }
 
 h1.page-title {
@@ -1556,4 +1586,44 @@ table.takeout {
   padding: .5em 1em;
   border: 1px solid;
   border-radius: 5em;
+}
+
+
+@media print {
+  body {
+    background:none;
+    padding:0;
+    margin:0;
+  }
+  main {
+    width:100%;
+    margin:0;
+  }
+  main:before {
+    content: 'Nathan Wong';
+    text-transform:uppercase;
+    text-align: left;
+    font-size: 14pt;
+    font-weight: bold;
+  }
+  .sub-block {
+    position:relative;
+    left:0;
+    top:0;
+    right:0;
+    margin-top:10px;
+    width:40%;
+    border: 1px solid;
+    background: #fff;
+  }
+  img {
+    max-height: 50%;
+    max-width: 50%;
+  }
+  .timeline {
+    display:none;
+  }
+  section.gallery {
+    padding:0;
+  }
 }

@@ -9,7 +9,6 @@ columns:
                 type: pages
                 status: listed
                 sortBy: date desc
-                templates: art_project
                 info: "{{ page.inv }}"
                 image:
                     back: white

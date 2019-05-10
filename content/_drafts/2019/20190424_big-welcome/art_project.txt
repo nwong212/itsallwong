@@ -1,0 +1,66 @@
+Title: Big Welcome
+
+----
+
+Selected: 
+
+- bigwelcome.jpg
+
+----
+
+Inv: NW2019.008
+
+----
+
+Cover: 
+
+- bigwelcome.jpg
+
+----
+
+Date: 2019-04-24
+
+----
+
+Size: 
+
+----
+
+Materials: Ink, gouache, graphite, colored pencil
+
+----
+
+Listed-price: 400
+
+----
+
+Sold-price: 
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+- 
+  exhibitionopening: 2019-04-25
+  exhibitiontitle: >
+    Printmaking Senior Degree Project
+    Exhibition 2019
+  exhibitionlocation: Woods-Gerry Gallery, RISD
+  exhibitioncontact: null
+  exhibitionnotes: ""
+
+----
+
+Installation: 

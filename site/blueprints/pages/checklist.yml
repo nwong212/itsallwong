@@ -1,0 +1,40 @@
+title: Checklist
+
+columns:
+  - width: 2/3
+      fields:
+          objectsSelect:
+            type: pages
+            width: 1
+  Options:
+      width: 1/3
+      fields:
+        objectsImage:
+          label:
+          type: toggle
+          text: Image
+
+        objectsInv:
+          label:
+          type: toggle
+          text: Inventory Number
+
+        objectsPrice:
+          label:
+          type: toggle
+          text: Price
+
+        objectsMaterial:
+          label:
+          type: toggle
+          text: Materials
+
+        objectsInstall:
+          label:
+          type: toggle
+          text: Installation & Care Instructions
+
+        objectsLocation:
+          label:
+          type: toggle
+          text: Location

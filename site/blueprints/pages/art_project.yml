@@ -50,12 +50,14 @@ tabs:
     #PRICE Section
             listed_price:
               width: 1/4
-              label: List Price (USD $)
-              type: number
+              label: List Price
+              before: '$'
+              type: text
             sold_price:
               width: 1/4
-              label: Value (USD $)
-              type: number
+              label: Value
+              before: '$'
+              type: text
             comment:
               width: 1/2
               label: Notes
@@ -68,6 +70,7 @@ tabs:
             current_past:
               label: Location
               type: structure
+              sortBy: date_moved desc
               fields:
                 date_moved:
                   label: Date
@@ -95,19 +98,24 @@ tabs:
             exhibition_history:
               label: Exhibition History
               type: structure
+              sortBy: exhibitionOpening desc
               fields:
                 exhibitionOpening:
                   label: Opening Date
                   type: date
-                  width: 1/3
+                  width: 1/4
+                exhibitionTitle:
+                  label: Title
+                  type: text
+                  width: 1/4
                 exhibitionLocation:
                   label: Location
                   type: text
-                  width: 1/3
+                  width: 1/4
                 exhibitionContact:
                   label: Main Contact Person & Info
                   type: text
-                  width: 1/3
+                  width: 1/4
                 exhibitionNotes:
                   label: Notes
                   type: textarea

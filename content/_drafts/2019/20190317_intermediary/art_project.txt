@@ -33,6 +33,14 @@ Materials: Meditation performance on saffron-dyed silk and cotton cushions
 
 ----
 
+Listed-price: 
+
+----
+
+Sold-price: 
+
+----
+
 Comment: 
 
 ----
@@ -46,6 +54,17 @@ Exhibitionimages:
 ----
 
 Exhibition-history: 
+
+- 
+  exhibitionopening: 2019-04-26
+  exhibitionlocation: RISD Museum
+  exhibitioncontact: Deb Clemons
+  exhibitionnotes: 'Second performance: added more flowers, removed yellow tape, second signage'
+- 
+  exhibitionopening: 2019-03-15
+  exhibitionlocation: RISD Museum
+  exhibitioncontact: Deb Clemons
+  exhibitionnotes: First Performance
 
 ----
 

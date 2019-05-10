@@ -1,5 +1,5 @@
 <?php
-
+date_default_timezone_set('America/New_York');
 /*
 ---------------------------------------
 URL Setup
@@ -253,7 +253,7 @@ Please read more about it at: http://php.net/manual/en/function.date-default-tim
 
 */
 
-// c::set('timezone', 'UTC');
+
 
 
 /*
