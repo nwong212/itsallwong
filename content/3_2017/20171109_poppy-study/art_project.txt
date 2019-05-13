@@ -4,7 +4,7 @@ Title: Poppy Study
 
 Selected: 
 
-- Wong,Nathan_072.jpg
+- WongNathan_072.jpg
 
 ----
 
@@ -14,7 +14,7 @@ Inv:
 
 Cover: 
 
-- Wong,Nathan_072.jpg
+- WongNathan_072.jpg
 
 ----
 
@@ -27,6 +27,14 @@ Size: 10" x 20"
 ----
 
 Materials: Silkscreen and photopolymer graveur
+
+----
+
+Listed-price: 
+
+----
+
+Sold-price: 
 
 ----
 

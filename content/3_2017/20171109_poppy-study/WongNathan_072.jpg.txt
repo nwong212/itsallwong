@@ -1,16 +1,16 @@
-Title: 
-
-----
-
 Caption: 
 
 ----
 
-Alt: 
+Alt: Poppy Study
 
 ----
 
 Linkto: 
+
+----
+
+Title: 
 
 ----
 
