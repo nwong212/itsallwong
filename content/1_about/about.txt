@@ -6,7 +6,7 @@ Text:
 
 I'm Nathan.
 
-(email: info@itsallwong.com text: Leave a Message) | (link: https://instagram.com/cryweiwei text: Instagram) | (link: https://twitter.com/_wong_wong_wong text: Twitter)
+(email: info@itsallwong.com text: Leave a Message) | (link: https://instagram.com/cryweiwei text: Instagram)
 
 <br />
 <br />
