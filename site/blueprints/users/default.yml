@@ -1,0 +1,9 @@
+columns:
+  - width: 1/3
+    fields:
+      phone:
+        type: tel
+      address:
+        type: textarea
+      website:
+        type: url

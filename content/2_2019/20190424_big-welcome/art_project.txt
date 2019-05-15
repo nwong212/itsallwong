@@ -22,7 +22,7 @@ Date: 2019-04-24
 
 ----
 
-Size: 
+Size: 42" x 101.5"
 
 ----
 
@@ -43,6 +43,21 @@ Comment:
 ----
 
 Current-past: 
+
+- 
+  date_moved: 2019-04-30
+  owner: Nathan Wong
+  location: Benson Hall Senior Studio
+  notes: >
+    Good Condition, 4 markings at top from
+    metal magnets
+- 
+  date_moved: 2019-04-25
+  owner: Nathan Wong
+  location: Woods-Gerry Gallery, RISD
+  notes: >
+    On Loan to RISD for Printmaking Senior
+    Exhibition
 
 ----
 

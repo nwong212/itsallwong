@@ -1,0 +1,54 @@
+* {
+  max-width: 100%;
+  font-size: 1em;
+}
+body, body.home.tagged {
+  background:none;
+  width:8.5in;
+  padding:0pc 4pc 4pc;
+  font: 12pt / 13pt 'ATC Harris';
+  height:auto;
+  position:relative;
+}
+aside.header {
+  margin: 0 0 4pc;
+}
+.font_small {
+  font-size: 0.7em;
+  margin:0;
+}
+main {
+  width:100%;
+  height:auto;
+  display:block;
+  float:none;
+}
+div.print {
+  width:100%;
+  float:none;
+  display:block;
+  margin-top:4pc;
+  page-break-after: always;
+  clear:both;
+  margin-bottom: 2pc;
+}
+div figure {
+  width:calc(100%/3);
+  float:right;
+}
+div.break {
+  overflow:hidden;
+  margin-bottom:4pc;
+  margin-top:1pc;
+  clear:both;
+  width:100%;
+  content:' ';
+  border-bottom:3px dotted grey;
+}
+
+@media print {
+  div.break {
+    display:none;
+    visibility: hidden;
+  }
+}

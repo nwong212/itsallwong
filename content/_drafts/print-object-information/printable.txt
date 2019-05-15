@@ -1,0 +1,11 @@
+Title: Print Object Information
+
+----
+
+Objectsselect: 
+
+- 2018/homage
+- 2017/men-in-uniform
+- 2017/in-the-garden
+- 2017/irrawaddy
+- 2019/intermediary

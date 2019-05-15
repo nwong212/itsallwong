@@ -1,0 +1,81 @@
+Title: The Path Ahead
+
+----
+
+Selected: 
+
+- pathahead.jpg
+
+----
+
+Inv: NW2019.005
+
+----
+
+Cover: 
+
+- pathahead.jpg
+
+----
+
+Date: 2019-04-27
+
+----
+
+Size: 22" x 30"
+
+----
+
+Materials: Sumi ink, gouache, graphite, toner, kozo paper on Rives BFK
+
+----
+
+Listed-price: 400
+
+----
+
+Sold-price: 
+
+----
+
+Comment: 500 with frame
+
+----
+
+Current-past: 
+
+- 
+  date_moved: 2019-04-30
+  owner: Nathan Wong
+  location: Benson Hall Senior Studio
+  notes: Good Condition
+- 
+  date_moved: 2019-04-25
+  owner: Nathan Wong
+  location: Woods-Gerry Gallery, RISD
+  notes: >
+    On Loan to RISD, Printmaking Senior
+    Exhibition
+
+----
+
+Exhibitionimages: 
+
+----
+
+Exhibition-history: 
+
+- 
+  exhibitionopening: 2019-04-25
+  exhibitiontitle: Printmaking Senior Exhibition 2019
+  exhibitionlocation: Woods-Gerry Gallery
+  exhibitioncontact: null
+  exhibitionnotes: ""
+
+----
+
+Installation: 
+
+----
+
+Inventory: NW19-002

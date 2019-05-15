@@ -29,6 +29,11 @@ columns:
           type: toggle
           text: Materials
 
+        objectsSize:
+          label:
+          type: toggle
+          text: Size
+
         objectsInstall:
           label:
           type: toggle

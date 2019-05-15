@@ -1,4 +1,4 @@
-Title: Printmaking Senior Exhibition
+Title: Degree Project
 
 ----
 
@@ -9,6 +9,7 @@ Objectsselect:
 - 2019/the-path-ahead
 - 2019/wisdom-fist
 - 2019/intermediary
+- 2018/untitled
 
 ----
 
@@ -25,6 +26,10 @@ Objectsprice: true
 ----
 
 Objectsmaterial: true
+
+----
+
+Objectssize: true
 
 ----
 

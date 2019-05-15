@@ -1,0 +1,92 @@
+Title: Intermediary
+
+----
+
+Selected: 
+
+- ex2019.5_install-v_28.jpg
+- ex2019.5_install-v_37.jpg
+- ex2019.5_install-v_60.jpg
+- img_3959.jpg
+
+----
+
+Inv: NW2019.007
+
+----
+
+Cover: 
+
+- ex2019.5_install-v_28.jpg
+
+----
+
+Date: 2019-03-17
+
+----
+
+Size: 
+
+----
+
+Materials: Meditation performance on saffron-dyed silk and cotton cushions
+
+----
+
+Description: 
+
+Outside of museums, statues of Buddha and Buddhist relics are passionately cared for, eagerly prayed to, frequently visited, and colorfully adorned with flowers, jewels, gold offerings, and saffron-dyed silks. The monks and nuns that care for these cultural treasures are dressed in shades of maroon, orange, and pink, offering contrast to the often gold-leafed surfaces. This is my experience of Buddhism, observed during visits to temples with my grandmother and family throughout Myanmar and Los Angeles.
+
+This performance piece references the RISD Museum’s Buddha Mahavairocana (Dainichi Nyorai), located in the Asian galleries on the sixth floor. The larger-than-life Buddha there appears quiet, lonely, almost asleep, and without evidence of prayers or offerings. Asian galleries at many museums—not just the RISD Museum—are presented almost universally as dark, meditative galleries focused on an archeological view of objects. In my performance piece, I bring that quiet, spiritual energy to this brightly lit and lively gallery, questioning the practice of othering Asian art in Western museums. I invite everyone to join the meditation, but I ask that visitors participate in the tradition of removing shoes before entering the sacred space. Please also be respectful of the silence.
+
+– Nathan Wong
+
+----
+
+Listed-price: NFS
+
+----
+
+Sold-price: 
+
+----
+
+Comment: 
+
+----
+
+Current-past: 
+
+----
+
+Exhibitionimages: 
+
+- ex2019.5_install-v_28.jpg
+- ex2019.5_install-v_37.jpg
+- ex2019.5_install-v_60.jpg
+- img_3959.jpg
+
+----
+
+Exhibition-history: 
+
+- 
+  exhibitionopening: 2019-04-26
+  exhibitiontitle: Intermediary
+  exhibitionlocation: RISD Museum
+  exhibitioncontact: Deb Clemons
+  exhibitionnotes: 'Second performance: added more flowers, removed yellow tape, second signage'
+- 
+  exhibitionopening: 2019-03-15
+  exhibitiontitle: Intermediary
+  exhibitionlocation: RISD Museum
+  exhibitioncontact: Deb Clemons
+  exhibitionnotes: First Performance
+
+----
+
+Installation: 
+
+----
+
+Inventory: NW19-004

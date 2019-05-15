@@ -961,8 +961,8 @@ section.gallery.one1 {
 .art .projects .grid-item img {
   display: block;
   max-width: 80vw;
-  max-height: 96vh;
-  margin: auto;
+  max-height: 80vh;
+  margin: 10vh auto;
   ;
 }
 

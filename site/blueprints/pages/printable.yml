@@ -1,0 +1,7 @@
+title: Object Information
+
+fields:
+    objectsSelect:
+      label: Select Objects to Print
+      type: pages
+      width: 1

@@ -4,11 +4,9 @@ Title: Nathan Wong
 
 Text: 
 
-I'm Nathan Wong, I'm a visual artist working mainly in printmaking and painting. My favorite animal is the killer whale.
+I'm Nathan.
 
-(email: info@itsallwong.com text: Leave a Message)
-
-Follow me on <a href="http://instagram.com/cryweiwei">Instagram</a> or (link:http://twitter.com/_wong_wong_wongtext:Twitter)
+(email: info@itsallwong.com text: Leave a Message) | (link: https://instagram.com/cryweiwei text: Instagram) | (link: https://twitter.com/_wong_wong_wong text: Twitter)
 
 <br />
 <br />

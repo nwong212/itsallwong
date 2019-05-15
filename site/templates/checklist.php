@@ -20,7 +20,7 @@
           <thead>
             <tr>
               <?php if ($page->objectsInv()->bool() == true): ?>
-                <th scope="col" style="width:100px">Inv #</th>
+                <th scope="col" style="width:100px">#</th>
               <?php endif; if ($page->objectsImage()->bool() == true): ?>
                 <th scope="col" style="width:220px">Image</th>
               <?php endif; ?>
@@ -29,6 +29,9 @@
                 <th scope="col">Price</th>
               <?php endif; if ($page->objectsMaterial()->bool() == true): ?>
                 <th scope="col">Materials</th>
+              <?php if ($page->objectsSize()->bool() == true):?>
+                <th scope="col">Size</th>
+              <?php endif; ?>
               <?php endif; if ($page->objectsInstall()->bool() == true): ?>
                 <th scope="col">Installation/Care</th>
               <?php endif; if ($page->objectsLocation()->bool() == true): ?>
@@ -42,30 +45,35 @@
             <tr>
               <?php if ($page->objectsInv()->bool() == true):?>
                 <td>
-                  <?php echo $object->inv() ?>
+                  <?php echo $object->inv(); ?>
                 </td>
               <?php endif; ?>
               <?php if ($page->objectsImage()->bool() == true):?>
                 <td>
-                  <?php echo $object->cover()->toFile() ?>
+                  <?php echo $object->cover()->toFile(); ?>
                 </td>
               <?php endif; ?>
                 <td>
-                  <?php echo $object->title() ?>
+                  <?php echo $object->title(); ?>
                 </td>
               <?php if ($page->objectsPrice()->bool() == true):?>
                 <td>
-                  $<?php echo $object->listed_price() ?>
+                  $<?php echo $object->listed_price(); ?>
                 </td>
               <?php endif; ?>
               <?php if ($page->objectsMaterial()->bool() == true):?>
                 <td>
-                  <?php echo $object->materials() ?>
+                  <?php echo $object->materials(); ?>
+                </td>
+              <?php endif; ?>
+              <?php if ($page->objectsSize()->bool() == true):?>
+                <td>
+                  <?php echo $object->size(); ?>
                 </td>
               <?php endif; ?>
               <?php if ($page->objectsInstall()->bool() == true):?>
                 <td>
-                  <?php echo $object->install_care() ?>
+                  <?php echo $object->install_care(); ?>
                 </td>
               <?php endif; ?>
               <?php

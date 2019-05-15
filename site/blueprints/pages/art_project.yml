@@ -42,8 +42,12 @@ tabs:
             materials:
               label: Materials
               type:  textarea
+              buttons: false
       - width: 1
           fields:
+            description:
+              label: Description
+              type: textarea
 #------------------------------------------------
             linePrice:
               type: line

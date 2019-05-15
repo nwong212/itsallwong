@@ -18,7 +18,7 @@ Cover:
 
 ----
 
-Date: 2019-04-28
+Date: 2019-04-27
 
 ----
 
@@ -30,7 +30,11 @@ Materials: Acrylic, sumi ink, graphite, mica powder, kozo paper on Arches 88
 
 ----
 
-Listed-price: 300
+Listed-price: 400
+
+----
+
+Sold-price: 
 
 ----
 
@@ -41,20 +45,15 @@ Comment: +100 framed
 Current-past: 
 
 - 
-  date_moved: 2019-04-30
+  date_moved: 2019-04-29
   owner: Nathan Wong
   location: Benson Hall Senior Studio
-  notes: Deinstallation
+  notes: Good Condition
 - 
-  date_moved: 2019-04-24
+  date_moved: 2019-04-23
   owner: Nathan Wong
   location: Woods-Gerry Gallery RISD
   notes: Senior Exhibition
-- 
-  date_moved: 2019-04-22
-  owner: Nathan Wong
-  location: Benson Hall Senior Studios
-  notes: Created
 
 ----
 
@@ -63,6 +62,13 @@ Exhibitionimages:
 ----
 
 Exhibition-history: 
+
+- 
+  exhibitionopening: 2019-04-25
+  exhibitiontitle: Printmaking Senior Exhibition 2019
+  exhibitionlocation: Woods-Gerry Galery, RISD
+  exhibitioncontact: null
+  exhibitionnotes: ""
 
 ----
 
