@@ -1,10 +1,8 @@
-Title: The Path Ahead
+Title: Study of Buddhist Symbols
 
 ----
 
-Selected: 
-
-- pathahead.jpg
+Selected: - pathahead.jpg
 
 ----
 
@@ -12,9 +10,7 @@ Inv: NW2019.005
 
 ----
 
-Cover: 
-
-- pathahead.jpg
+Cover: - pathahead.jpg
 
 ----
 

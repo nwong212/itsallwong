@@ -1,0 +1,37 @@
+//----- Functions
+@function headings($from:1, $to:6) {
+    @if $from == $to {
+        @return 'h#{$from}';
+    } @else {
+        @return 'h#{$from},' + headings($from+1, $to);
+    }
+}
+
+//----- Mixins
+@mixin breakpoint($point) {
+   @if $point == desktop {
+     @media (min-width: 70em) { @content ; }
+  }
+   @else if $point == laptop {
+     @media (max-width: 70em) { @content ; }
+  }
+    @else if $point == tablet {
+     @media (max-width: 64em) { @content ; }
+  }
+   @else if $point == phablet {
+     @media (max-width: 50em)  { @content ; }
+  }
+  @else if $point == mobileonly {
+     @media (max-width: 40em)  { @content ; }
+
+  }
+  @else if $point == print {
+     @media print  { @content ; }
+
+  }
+}
+
+@mixin pinkgradient($direction, $from, $to) {
+	background: $primaryColor;
+    background: linear-gradient( $direction, $primaryColor $from, $primaryColor0 $to, $primaryColor0 100vh );
+}

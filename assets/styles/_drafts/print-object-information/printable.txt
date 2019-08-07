@@ -1,0 +1,23 @@
+Title: Print Object Information
+
+----
+
+Objectsselect: 
+
+- 2018/homage
+- 2019/intermediary
+- 2019/big-welcome
+- 2019/wisdom-fist
+- 2019/origin
+- 2019/the-path-ahead
+- 2018/still-life-with-peaches
+- 2018/fuzz
+- 2018/drawing-of-an-interior
+- 2017/poppy-study
+- 2017/in-the-garden-ii
+- 2017/in-the-garden
+- 2017/inle
+- 2017/rattan-baller
+- 2017/irrawaddy
+- 2017/men-in-uniform
+- 2017/the-fog-of-war

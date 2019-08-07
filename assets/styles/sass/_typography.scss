@@ -1,0 +1,179 @@
+*+* {
+  margin: 0 auto 0;
+}
+
+::selection {
+  background: #fff100;
+}
+
+::-moz-selection {
+  background: #fff100;
+}
+
+::-webkit-scrollbar-track:vertical {
+  width: 10px;
+}
+
+::-webkit-scrollbar:horizontal {
+  width: 0;
+  height: 0;
+  background: 0 0;
+}
+
+::-webkit-scrollbar-track-piece {
+  background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+  background: red;
+}
+
+
+.project .tail p,
+.sub-block p,
+header,
+li+li,
+section.header+section.everythingelse {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-size: 1em;
+  font-weight: 800;
+  line-height: 1.2;
+  position: relative;
+  margin: 0;
+  letter-spacing: -.05em;
+}
+
+.font_small,
+small {
+  font-size: 0.833em;
+}
+
+p {
+  margin-bottom: 1.3em;
+}
+
+table {
+  font-size: 12px;
+  color: inherit;
+  background: transparent;
+  border-collapse: collapse;
+  min-width: 100%;
+  text-align: left;
+}
+
+table thead {
+  border-bottom: 2px solid;
+}
+
+table tr {
+  border-bottom: 1px solid;
+}
+
+table td,
+table th {
+  padding: 15px;
+  background: transparent;
+}
+
+table th {
+  text-transform: uppercase;
+  text-align: left;
+}
+
+table td:first-of-type,
+table th:first-of-type {
+  border-right: 1px solid;
+}
+
+a,
+a:visited {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
+  white-space: nowrap;
+  text-decoration: none;
+  color: #1e1e64;
+}
+
+.art a[rel~=materials]:not(:last-child):after {
+  display: inline-block;
+  content: ', ';
+}
+/* .art a {
+  color: #e94141 !important;
+} */
+.art a.scrolltotop {
+  border-bottom: none;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+a,
+a:active,
+a:hover,
+a:visited,
+img {
+  outline: 0;
+}
+
+a.bigLink {
+  width: auto;
+  margin-left: 5rem;
+}
+
+a.button {
+  text-align: center;
+  border: 2px solid;
+}
+
+code {
+  font-family: monospace;
+  display: block;
+  overflow: scroll;
+  padding: 1.2em;
+  background: #ddd;
+  -webkit-overflow-scrolling: touch;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+.centerfloat {
+  float: none;
+  margin: auto;
+}
+
+.leftfloat {
+  float: left;
+}
+
+.rightfloat {
+  float: right;
+}
+.clear:after,
+.clear:before {
+  display: table;
+  content: ' ';
+}
+
+.clear:after {
+  clear: both;
+}

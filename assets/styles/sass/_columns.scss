@@ -1,0 +1,70 @@
+.floatleft,
+header {
+	float: left;
+}
+
+.floatright {
+	float: right;
+}
+
+[class^=section-] {
+	margin: auto;
+	padding: 5px;
+	@include breakpoint(mobileonly) {
+		width: 100%;
+		float: none;
+		padding: 0;
+	}
+}
+
+.section-1-1 {
+	width: 100%;
+}
+
+.section-1-2 {
+	width: 50%;
+}
+
+.section-1-4 {
+	width: 25%;
+}
+
+.section-3-4 {
+	width: 75%;
+}
+
+.section-1-8 {
+	width: 12.5%;
+}
+
+.section-3-8 {
+	width: 37.5%;
+}
+
+.section-5-8 {
+	width: 62.5%;
+}
+
+.section-7-8 {
+	width: 87.5%;
+}
+
+.cols-2 {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+}
+
+.cols-4 {
+	-webkit-column-count: 4;
+	-moz-column-count: 4;
+	column-count: 4;
+}
+
+[class *= cols-] {
+	@include breakpoint(mobileonly) {
+		-webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+	}
+}
