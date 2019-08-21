@@ -360,9 +360,35 @@ section .video-container iframe, section .video-container video { position: abso
 
 .gutter-sizer:after { float: none; }
 
-.home .content.default { font-weight: 700; position: fixed; bottom: 5vh; left: 10vw; padding: 0; }
+.home main { width: 100%; }
 
-figcaption { font-size: 0.75em; margin-top: 10px; margin-bottom: 0; }
+.home main a { display: block; float: left; width: auto; height: auto; margin: 0 0 15% 0; position: relative; }
+
+.home main a:nth-of-type(1n) { margin-left: 7%; margin-top: -4%; }
+
+.home main a:nth-of-type(2n) { margin-left: 3%; margin-top: -2%; }
+
+.home main a:nth-of-type(4n) { margin-left: 17%; margin-top: -25%; }
+
+.home main a:nth-of-type(5n) { margin-left: 16%; margin-top: -27%; }
+
+.home main a:nth-of-type(6n) { margin-left: 24%; margin-top: -27%; }
+
+.home main a:nth-of-type(7n) { margin-left: 13%; margin-top: -11%; }
+
+.home main a:nth-of-type(8n) { margin-left: 3%; margin-top: -1%; }
+
+.home main a:nth-of-type(9n) { margin-left: 5%; margin-top: -18%; }
+
+.home main a:nth-of-type(10n) { margin-left: 14%; margin-top: -22%; }
+
+.home main figure { margin: 0; width: 45%; text-align: right; }
+
+.home main figure img { max-width: 20vw; min-width: 5vw; max-height: 80vh; }
+
+figure figcaption { font-size: 0.75em; margin-top: 10px; margin-bottom: 0; display: none; }
+
+figure:hover figcaption { display: inline-block; }
 
 .timeline { position: relative; z-index: 0; float: left; width: 100%; height: 100px; margin: 0; padding: 10px 0; text-align: center; background: #fffffa; }
 

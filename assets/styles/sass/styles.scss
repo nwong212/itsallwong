@@ -859,19 +859,64 @@ section {
 }
 
 .home {
-	.content.default {
-	    font-weight: 700;
-	    position: fixed;
-	    bottom: 5vh;
-	    left: 10vw;
-	    padding: 0;
+	main {
+		width:100%;
+		a {
+			display:block;
+			float:left;
+			width:auto;
+			height:auto;
+			margin: 0 0 15% 0;
+			position:relative;
+			@mixin randomMargin1() {
+
+				$i: 1;
+				@while $i < 3 {
+				  &:nth-of-type(#{$i}n) {
+					margin-left: percentage(random(20)/100);
+					margin-top: 0 - percentage(random(5)/100);
+				  }
+				  $i: $i+1;
+				}
+			}
+			@mixin randomMargin2() {
+
+				$i: 4;
+				@while $i <= 10 {
+				  &:nth-of-type(#{$i}n) {
+					margin-left: percentage(random(27)/100);
+					margin-top: 0 - percentage(random(30)/100);
+				  }
+				  $i: $i+1;
+				}
+			}
+
+			@include randomMargin1();
+			@include randomMargin2();
+		}
+		figure {
+			margin:0;
+			width:45%;
+			text-align: right;
+			img {
+				max-width:20vw;
+				min-width:5vw;
+				max-height:80vh;
+			}
+		}
 	}
 }
+figure {
 
-figcaption {
-	font-size: 0.75em;
-	margin-top: 10px;
-	margin-bottom: 0;
+	figcaption {
+		font-size: 0.75em;
+		margin-top: 10px;
+		margin-bottom: 0;
+		display:none;
+	}
+	&:hover figcaption {
+		display:inline-block;
+	}
 }
 
 
