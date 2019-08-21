@@ -5868,23 +5868,23 @@
 		"oAP": "/content/4_2017/20171012_inle/art_project.txt",
 		"oF": 0
 		},
-	"/content/4_2017/20171012_inle/Wong,Nathan_02.jpg": {
+	"/content/4_2017/20171012_inle/WongNathan_02.jpg": {
 		"ft": 16384,
 		"iS": 1520101,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/content/4_2017/20171012_inle/Wong,Nathan_02.jpg",
+		"oAP": "/content/4_2017/20171012_inle/WongNathan_02.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/content/4_2017/20171012_inle/Wong,Nathan_02.jpg.txt": {
+	"/content/4_2017/20171012_inle/WongNathan_02.jpg.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/4_2017/20171012_inle/Wong,Nathan_02.jpg.txt",
+		"oAP": "/content/4_2017/20171012_inle/WongNathan_02.jpg.txt",
 		"oF": 0
 		},
 	"/content/4_2017/20171012_rattan-baller/art_project.txt": {
@@ -15254,6 +15254,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2017/in-the-garden/3408592813-1552938758/wong-nathan_03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2017/inle/1475375801-1566421549/wongnathan-02-400x258-q90.jpg": {
+		"ft": 16384,
+		"iS": 19034,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/inle/1475375801-1566421549/wongnathan-02-400x258-q90.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2017/inle/1475375801-1566421549/WongNathan_02.jpg": {
+		"ft": 16384,
+		"iS": 1520101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/inle/1475375801-1566421549/WongNathan_02.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

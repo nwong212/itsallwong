@@ -4,7 +4,7 @@ Title: Inle
 
 Selected: 
 
-- Wong,Nathan_02.jpg
+- WongNathan_02.jpg
 
 ----
 
@@ -14,7 +14,7 @@ Inv:
 
 Cover: 
 
-- Wong,Nathan_02.jpg
+- WongNathan_02.jpg
 
 ----
 
@@ -27,6 +27,18 @@ Size: 19" x 12.5"
 ----
 
 Materials: Photopolymer graveur
+
+----
+
+Description: 
+
+----
+
+Listed-price: 
+
+----
+
+Sold-price: 
 
 ----
 
