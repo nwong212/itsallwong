@@ -75,6 +75,7 @@ body {
 
 	&.home {
 	    background: linear-gradient( to bottom, $primaryColor 0, $primaryColor0 75vh, $primaryColor0 100vh );
+		background-attachment: fixed;
 		overflow: hidden;
 	}
 	&.error {
@@ -868,6 +869,9 @@ section {
 			height:auto;
 			margin: 0 0 15% 0;
 			position:relative;
+			&:hover {
+				z-index:500;
+			}
 			@mixin randomMargin1() {
 
 				$i: 1;
@@ -912,7 +916,7 @@ figure {
 		font-size: 0.75em;
 		margin-top: 10px;
 		margin-bottom: 0;
-		display:none;
+		// display:none;
 	}
 	&:hover figcaption {
 		display:inline-block;
