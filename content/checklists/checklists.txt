@@ -1,0 +1,9 @@
+Title: Checklists
+
+----
+
+Securedpageenabled: true
+
+----
+
+Securedpageroles: admin

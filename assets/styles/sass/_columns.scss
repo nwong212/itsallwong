@@ -7,16 +7,6 @@ header {
 	float: right;
 }
 
-[class^=section-] {
-	margin: auto;
-	padding: 5px;
-	@include breakpoint(mobileonly) {
-		width: 100%;
-		float: none;
-		padding: 0;
-	}
-}
-
 .section-1-1 {
 	width: 100%;
 }
@@ -47,6 +37,16 @@ header {
 
 .section-7-8 {
 	width: 87.5%;
+}
+
+[class*=section-] {
+	margin: auto;
+	padding: 5px;
+	@include breakpoint(phablet) {
+		width: 100%;
+		float: none;
+		padding: 0;
+	}
 }
 
 .cols-2 {

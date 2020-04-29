@@ -7,7 +7,7 @@
 		"uuidString": "96DF3CE5-698E-4AAF-8759-444651639AED"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31934",
 "files": {
 	"/.editorconfig": {
 		"cB": 0,
@@ -5296,6 +5296,16 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/content/1_about/about.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/content/1_about/about.min-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/content/1_about/about.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -6176,6 +6186,30 @@
 		"oAP": "/content/4_2017/recipe/art_project.txt",
 		"oF": 0
 		},
+	"/content/checklists/2017/checklist.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/checklists/2017/checklist.txt",
+		"oF": 0
+		},
+	"/content/checklists/checklists.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/checklists/checklists.txt",
+		"oF": 0
+		},
+	"/content/database-search/art_search.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/database-search/art_search.txt",
+		"oF": 0
+		},
 	"/content/error/error.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -6192,6 +6226,22 @@
 		"oAP": "/content/home/home.txt",
 		"oF": 0
 		},
+	"/content/login/login.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/login/login.txt",
+		"oF": 0
+		},
+	"/content/search/search.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/search/search.txt",
+		"oF": 0
+		},
 	"/content/site.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -6206,6 +6256,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/sitemap/xmlsitemap.txt",
+		"oF": 0
+		},
+	"/httpd.conf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/httpd.conf",
 		"oF": 0
 		},
 	"/index.php": {
@@ -15125,6 +15183,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2017/in-the-garden-ii/2030707645-1552938758/wong-nathan-04-1024x1778-q80.jpg": {
+		"ft": 16384,
+		"iS": 134694,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/in-the-garden-ii/2030707645-1552938758/wong-nathan-04-1024x1778-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2017/in-the-garden-ii/2030707645-1552938758/wong-nathan-04-1500x2605-q100.jpg": {
 		"ft": 16384,
 		"iS": 894405,
@@ -15204,6 +15273,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2017/in-the-garden/3408592813-1552938758/wong-nathan-03-1024x1589-q80.jpg": {
+		"ft": 16384,
+		"iS": 1673817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/in-the-garden/3408592813-1552938758/wong-nathan-03-1024x1589-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2017/in-the-garden/3408592813-1552938758/wong-nathan-03-1465x2273-q100.jpg": {
 		"ft": 16384,
 		"iS": 1554526,
@@ -15254,6 +15334,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2017/in-the-garden/3408592813-1552938758/wong-nathan_03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2017/inle/1475375801-1566421549/wongnathan-02-1024x660-q80.jpg": {
+		"ft": 16384,
+		"iS": 65382,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/inle/1475375801-1566421549/wongnathan-02-1024x660-q80.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -15417,6 +15508,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2017/irrawaddy/3295916122-1552938758/irrawady-100x77-q90.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2017/irrawaddy/3295916122-1552938758/irrawady-1024x784-q80.jpg": {
+		"ft": 16384,
+		"iS": 76520,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/irrawaddy/3295916122-1552938758/irrawady-1024x784-q80.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -15633,6 +15735,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/2017/meditate/3126280568-1552938758/meditate-8220-1024x768-q80.jpg": {
+		"ft": 16384,
+		"iS": 73634,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/meditate/3126280568-1552938758/meditate-8220-1024x768-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/media/pages/2017/meditate/3126280568-1552938758/meditate-8220-2048x1536-q90.jpg": {
 		"ft": 16384,
@@ -16015,6 +16128,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2017/men-in-uniform/1627857172-1552938757/wong-nathan-122-1024x1159-q80.jpg": {
+		"ft": 16384,
+		"iS": 126041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/men-in-uniform/1627857172-1552938757/wong-nathan-122-1024x1159-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2017/men-in-uniform/1627857172-1552938757/wong-nathan-122-1500x1698-q100.jpg": {
 		"ft": 16384,
 		"iS": 1175883,
@@ -16065,6 +16189,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2017/men-in-uniform/1627857172-1552938757/wong-nathan_122.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2017/poppy-study/1185375814-1557762965/wongnathan-072-1024x2044-q80.jpg": {
+		"ft": 16384,
+		"iS": 3310710,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/poppy-study/1185375814-1557762965/wongnathan-072-1024x2044-q80.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -16206,6 +16341,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2017/rattan-baller/3170553532-1552938758/wong-nathan-08-1024x1204-q80.jpg": {
+		"ft": 16384,
+		"iS": 69579,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/rattan-baller/3170553532-1552938758/wong-nathan-08-1024x1204-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2017/rattan-baller/3170553532-1552938758/wong-nathan-08-1500x1763-q100.jpg": {
 		"ft": 16384,
 		"iS": 577749,
@@ -16296,6 +16442,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2017/the-fog-of-war/63598813-1552938757/wong-nathan-06-1024x2785-q80.jpg": {
+		"ft": 16384,
+		"iS": 1414025,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2017/the-fog-of-war/63598813-1552938757/wong-nathan-06-1024x2785-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2017/the-fog-of-war/63598813-1552938757/wong-nathan-06-1045x2842-q100.jpg": {
 		"ft": 16384,
 		"iS": 1318215,
@@ -16381,6 +16538,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2018/drawing-of-an-interior/1703280997-1552938758/drawingofaninterior-100x79-q90.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2018/drawing-of-an-interior/1703280997-1552938758/drawingofaninterior-1024x805-q80.jpg": {
+		"ft": 16384,
+		"iS": 138097,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2018/drawing-of-an-interior/1703280997-1552938758/drawingofaninterior-1024x805-q80.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -16476,6 +16644,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/media/pages/2018/fuzz/3828053495-1552938758/img-3389-1024x768-q80.jpg": {
+		"ft": 16384,
+		"iS": 161665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2018/fuzz/3828053495-1552938758/img-3389-1024x768-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2018/fuzz/3828053495-1552938758/img-3389-1024x768-q90.jpg": {
 		"ft": 16384,
 		"iS": 1847854,
@@ -16553,6 +16732,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/media/pages/2018/homage/2032684181-1552938758/homage-1024x672-q80.jpg": {
+		"ft": 16384,
+		"iS": 163392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2018/homage/2032684181-1552938758/homage-1024x672-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2018/homage/2032684181-1552938758/homage-1500x984-q100.jpg": {
 		"ft": 16384,
 		"iS": 1278980,
@@ -16624,6 +16814,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2018/still-life-with-peaches/1367244007-1552938758/peachstudy-100x79-q90.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2018/still-life-with-peaches/1367244007-1552938758/peachstudy-1024x806-q80.jpg": {
+		"ft": 16384,
+		"iS": 159360,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2018/still-life-with-peaches/1367244007-1552938758/peachstudy-1024x806-q80.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -16885,6 +17086,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2018/untitled/646043355-1552938758/10-1024x1378-q80.jpg": {
+		"ft": 16384,
+		"iS": 1832099,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2018/untitled/646043355-1552938758/10-1024x1378-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2018/untitled/646043355-1552938758/10-1500x2018-q100.jpg": {
 		"ft": 16384,
 		"iS": 1685628,
@@ -16964,6 +17176,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2019/big-welcome/205715869-1557460509/bigwelcome-1024x2542-q80.jpg": {
+		"ft": 16384,
+		"iS": 137725,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2019/big-welcome/205715869-1557460509/bigwelcome-1024x2542-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2019/big-welcome/205715869-1557460509/bigwelcome-1500x3724-q90.jpg": {
 		"ft": 16384,
 		"iS": 342160,
@@ -17022,6 +17245,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/2019/intermediary/2257713986-1557189625/ex2019-5-install-v-28-100x67-q90.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/media/pages/2019/intermediary/2257713986-1557189625/ex2019-5-install-v-28-1024x683-q80.jpg": {
+		"ft": 16384,
+		"iS": 54383,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2019/intermediary/2257713986-1557189625/ex2019-5-install-v-28-1024x683-q80.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -17374,6 +17608,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2019/origin/1815845227-1557187909/origin-1024x1329-q80.jpg": {
+		"ft": 16384,
+		"iS": 6784103,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2019/origin/1815845227-1557187909/origin-1024x1329-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2019/origin/1815845227-1557187909/origin-1024x1329-q90.jpg": {
 		"ft": 16384,
 		"iS": 285191,
@@ -17508,6 +17753,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/media/pages/2019/study-of-buddhist-symbols/1299850427-1557187966/pathahead-1024x1355-q80.jpg": {
+		"ft": 16384,
+		"iS": 241738,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2019/study-of-buddhist-symbols/1299850427-1557187966/pathahead-1024x1355-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/media/pages/2019/study-of-buddhist-symbols/1299850427-1557187966/pathahead-2048x2710-q90.jpg": {
 		"ft": 16384,
 		"iS": 2836059,
@@ -17583,6 +17839,17 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/2019/wisdom-fist/2574040536-1557188413/wisdomfist-1024x1319-q80.jpg": {
+		"ft": 16384,
+		"iS": 7050585,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/2019/wisdom-fist/2574040536-1557188413/wisdomfist-1024x1319-q80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/media/pages/2019/wisdom-fist/2574040536-1557188413/wisdomfist-1500x1932-q100.jpg": {
 		"ft": 16384,
@@ -18750,6 +19017,14 @@
 		"oAP": "/site/blueprints/pages/default.yml",
 		"oF": 0
 		},
+	"/site/blueprints/pages/login.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/blueprints/pages/login.yml",
+		"oF": 0
+		},
 	"/site/blueprints/pages/old/about.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -18908,12 +19183,28 @@
 		"oAP": "/build/site/cache",
 		"oF": 0
 		},
+	"/site/collections/objects.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/collections/objects.php",
+		"oF": 0
+		},
 	"/site/config/.license": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/config/.license",
+		"oF": 0
+		},
+	"/site/config/analytics.itsallwong.com.crt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/config/analytics.itsallwong.com.crt",
 		"oF": 0
 		},
 	"/site/config/config-beta.php": {
@@ -18932,68 +19223,108 @@
 		"oAP": "/site/config/config.php",
 		"oF": 0
 		},
-	"/site/sessions/1564895650.d20674a3b96190e3d129.sess": {
+	"/site/controllers/art_search.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1564895650.d20674a3b96190e3d129.sess",
+		"oAP": "/site/controllers/art_search.php",
 		"oF": 0
 		},
-	"/site/sessions/1564898744.0e14ca08d44d3ff7bc73.sess": {
+	"/site/controllers/login.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1564898744.0e14ca08d44d3ff7bc73.sess",
+		"oAP": "/site/controllers/login.php",
 		"oF": 0
 		},
-	"/site/sessions/1564945204.c93c6bcc478ac3cb2ec1.sess": {
+	"/site/sessions/1570927528.6113c91ad8ec02bdee89.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1564945204.c93c6bcc478ac3cb2ec1.sess",
+		"oAP": "/site/sessions/1570927528.6113c91ad8ec02bdee89.sess",
 		"oF": 0
 		},
-	"/site/sessions/1564971968.8664e7289af8b16fbcda.sess": {
+	"/site/sessions/1570927528.7aa9e7c7aa7f453ad457.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1564971968.8664e7289af8b16fbcda.sess",
+		"oAP": "/site/sessions/1570927528.7aa9e7c7aa7f453ad457.sess",
 		"oF": 0
 		},
-	"/site/sessions/1565214721.1ae849e24ab918674f93.sess": {
+	"/site/sessions/1570931144.10f97f88791f24037c35.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1565214721.1ae849e24ab918674f93.sess",
+		"oAP": "/site/sessions/1570931144.10f97f88791f24037c35.sess",
 		"oF": 0
 		},
-	"/site/sessions/1566423775.92fe7d00e52ab779910a.sess": {
+	"/site/sessions/1570931144.887ed6a3a3d516612e91.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1566423775.92fe7d00e52ab779910a.sess",
+		"oAP": "/site/sessions/1570931144.887ed6a3a3d516612e91.sess",
 		"oF": 0
 		},
-	"/site/sessions/1567626193.025d1b5cb0537889b2a5.sess": {
+	"/site/sessions/1570931144.8b8a7cac3831e40b580d.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1567626193.025d1b5cb0537889b2a5.sess",
+		"oAP": "/site/sessions/1570931144.8b8a7cac3831e40b580d.sess",
 		"oF": 0
 		},
-	"/site/sessions/1567626193.2618e9ba75aa159daf55.sess": {
+	"/site/sessions/1570931144.cb29919c58aa67a7f266.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1567626193.2618e9ba75aa159daf55.sess",
+		"oAP": "/site/sessions/1570931144.cb29919c58aa67a7f266.sess",
+		"oF": 0
+		},
+	"/site/sessions/1570931144.ef99cc83e0cb080b5b22.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1570931144.ef99cc83e0cb080b5b22.sess",
+		"oF": 0
+		},
+	"/site/sessions/1570934765.87e97e58b490d55168fd.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1570934765.87e97e58b490d55168fd.sess",
+		"oF": 0
+		},
+	"/site/sessions/1573174404.96b7cd941547e40b5dd3.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1573174404.96b7cd941547e40b5dd3.sess",
+		"oF": 0
+		},
+	"/site/sessions/1574376816.8676a677f87e153f29fc.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1574376816.8676a677f87e153f29fc.sess",
+		"oF": 0
+		},
+	"/site/sessions/1574376816.b5765edf3ef060b1ea59.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1574376816.b5765edf3ef060b1ea59.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {
@@ -19106,6 +19437,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/snippets/login.php",
+		"oF": 0
+		},
+	"/site/snippets/matomo.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/snippets/matomo.php",
 		"oF": 0
 		},
 	"/site/snippets/media.php": {
@@ -19252,12 +19591,28 @@
 		"oAP": "/site/templates/art_projects.php",
 		"oF": 0
 		},
+	"/site/templates/art_search.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/templates/art_search.php",
+		"oF": 0
+		},
 	"/site/templates/checklist.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/templates/checklist.php",
+		"oF": 0
+		},
+	"/site/templates/checklists.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/templates/checklists.php",
 		"oF": 0
 		},
 	"/site/templates/default.php": {
@@ -19282,6 +19637,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/templates/home.php",
+		"oF": 0
+		},
+	"/site/templates/login.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/templates/login.php",
 		"oF": 0
 		},
 	"/site/templates/printable.php": {
@@ -19322,6 +19685,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -19333,6 +19697,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -19472,6 +19837,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -19503,6 +19871,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -19597,11 +19968,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -19746,6 +20116,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -19847,6 +20218,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -20196,6 +20571,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -20606,6 +20985,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -20617,6 +21000,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -21226,7 +21613,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -21359,8 +21745,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,

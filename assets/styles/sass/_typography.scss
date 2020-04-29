@@ -45,8 +45,16 @@ h4 {
   font-weight: 800;
   line-height: 1.2;
   position: relative;
-  margin: 0;
+  margin: 0 0 1em;
   letter-spacing: -.05em;
+}
+
+hr {
+	width:25%;
+	margin:2em 0;
+	color: $accentColor;
+	border:none;
+	border-top:2px solid;
 }
 
 .font_small,
@@ -56,6 +64,12 @@ small {
 
 p {
   margin-bottom: 1.3em;
+}
+strong {
+	font-weight: bold;
+}
+em {
+	font-style:italic;
 }
 
 table {

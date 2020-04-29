@@ -21,7 +21,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0,">
 
     <?php   echo css('assets/styles/styles.min.css?ver=2');
-            echo css('@auto');
             // echo css('assets/ATC-HARRIS-KIT/atcharris.css') ?>
     <?php
         echo js('assets/js/modernizr.js', true)
@@ -76,16 +75,6 @@
         color:#707071;
     }
     </style>
-    <script>
-      (function(d) {
-        var config = {
-          kitId: 'hxs8iau',
-          scriptTimeout: 3000,
-          async: true
-        },
-        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-      })(document);
-    </script>
 
     <?php
     $tagged = false;
@@ -98,8 +87,31 @@
 
 </head>
 
-<body class="art <?php echo $page->slug(); if($page->intendedTemplate() == 'project'): ?> temp-Project<?php endif; if($tagged == true):?> tagged<?php endif; ?>">
+<body class="art <?php echo $page->slug(); if($page->intendedTemplate() == 'project'): ?> temp-Project<?php endif; if($tagged == true):?> tagged<?php endif; ?><?php if ($kirby->user()): ?> userisLoggedIn<?php endif;?>">
+
       <header class="come-in-top">
+				<?php if ($kirby->user()): ?>
+					<div class="privatenav">
+						<nav>
+							<ul class="items">
+								<li>
+									<a href="<?= $site->panelUrl(); ?>">Panel</a>
+								</li>
+								<li>
+									<a href="<?= $page->panelUrl();?>">Edit Page</a>
+								</li>
+								<li>
+									<a href="<?= $site->index()->find('checklists')->url()?>">Checklists</a>
+								</li>
+								<li>
+									<a href="<?= $site->index()->find('database-search')->url() ?>">Search</a>
+								</li>
+							</ul>
+							<a class="logout" href="<?= url('logout') ?>">Logout</a>
+						</nav>
+					</div>
+				<?php endif; ?>
+
               <?php snippet('menu');?>
       </header>
 <main>

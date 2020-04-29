@@ -1,4 +1,4 @@
-<?php if (!$kirby->user()) go('/') ?>
+<?php if (!$kirby->user()) go('login') ?>
 
 <?php snippet('art_header');
 ?>

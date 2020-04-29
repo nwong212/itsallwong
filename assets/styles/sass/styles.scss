@@ -20,12 +20,8 @@ html {
 	max-width: none;
 	word-wrap: break-word;
 	text-rendering: optimizeLegibility;
-	-webkit-font-smoothing: antialiased;
-	-webkit-font-feature-settings: 'kern'1, 'ss01'1;
-	font-feature-settings: 'kern'1, 'ss01'1;
-	-moz-font-feature-settings: 'kern'1, 'ss01'1;
-	-ms-font-feature-settings: 'kern'1, 'ss01'1;
-	-o-font-feature-settings: 'kern'1, 'ss01'1;
+	font-variant-numeric: oldstyle-nums;
+	font-feature-settings: 'kern'1;
 
 	&.come-in-top.slideUp {
 		-webkit-animation-name: slideOutUp;
@@ -68,7 +64,7 @@ body {
 	min-height: 100vh;
 	max-width: none;
 	margin: 0;
-	padding: 70px 0 0;
+	padding: 70px 0 7em;
 	-webkit-text-size-adjust: 100%;
 
 	&.home.tagged {}
@@ -101,7 +97,6 @@ img {
 	height: auto;
 	vertical-align: middle;
 	border: 0;
-
 	@include breakpoint(print) {
 		max-height: 50%;
 		max-width: 50%;
@@ -246,8 +241,9 @@ header {
 	z-index: 999;
 	top: 0;
 	width: 100vw;
-	padding: 1em 0;
+	padding: 0;
 	transition: 200ms -webkit-backdrop-filter;
+	padding:1em 0 0;
 
 	a {
 		&.nav-toggle,
@@ -262,7 +258,7 @@ header {
 		overflow: hidden;
 		width: 80vw;
 		max-width: none;
-		margin: 0 auto;
+		margin: 0 auto 1em;
 		padding: 0;
 		-webkit-transition-timing-function: cubic-bezier(.68, -.55, .265, 1.55);
 		transition-timing-function: cubic-bezier(.68, -.55, .265, 1.55);
@@ -474,7 +470,7 @@ main {
 	margin: 0 auto auto;
 
 	.default .text {
-		max-width: 32em;
+		// max-width: 32em;
 		text-align: left;
 	}
 
@@ -554,7 +550,7 @@ section {
 				right: 0;
 				margin-top: 10px;
 				width: 40%;
-				border: 1px solid;
+				border: 0px solid;
 				background: #fff;
 			}
 		}
@@ -922,7 +918,157 @@ figure {
 		display:inline-block;
 	}
 }
+.userisLoggedIn {
+	margin-top:3em;
+	header {
+		padding-top:0;
+	}
+}
 
+.privatenav {
+	width:100vw;
+	background-color: white;
+	// border-bottom:1px solid darken($primaryColor, 25%);
+	position: relative;
+	height:3em;
+	padding:1em 0;
+	font-size:0.75em;
+	margin-bottom:0.5em;
+	box-shadow:inset 0 -0.4em 0.6em -0.6em darken($primaryColor, 50%);
+	nav {
+		margin-bottom:0;
+		height:1em;
+		a {
+			// color:#FFF;
+		}
+		.logout {
+			text-align:right;
+			float:right;
+		}
+		ul.items {
+			height:1em;
+			float:left;
+			width:50%;
+			li {
+				padding:0;
+				margin-bottom:0;
+				margin-right:2em;
+				height:1em;
+			}
+		}
+	}
+}
+
+.login {
+	main {
+		display:flex;
+		align-items: center;
+		justify-content: center;
+		flex:1;
+		text-align:center;
+		& > div {
+			width:100%;
+			height:100%;
+		}
+	}
+	.alert {
+		color:$accentColor;
+		border:1px solid $primaryColor;
+		background: lighten($primaryColor, 10%);
+		padding:1em;
+		box-sizing: border-box;
+		font-weight:800;
+		width:25%;
+		margin:auto;
+		display:inline-block;
+		margin-bottom:1rem;
+	}
+	h1 {
+		text-transform: uppercase;
+		margin-bottom:1em;
+	}
+	section {
+		display:flex;
+		align-items: center;
+		justify-content: center;
+		flex:1;
+		width:100%;
+		height:100%;
+		flex-direction: column;
+	}
+	form {
+		flex-grow:0;
+		width:25%;
+		padding:1em;
+		border: 1px solid $primaryColor;
+		margin:auto;
+		font-size:1rem;
+		label {
+			display:block;
+			text-transform: uppercase;
+			font-weight:bold;
+			font-size:0.66666em;
+		}
+		input {
+			display:block;
+			width:100%;
+			padding:1em 0.66em;
+			font-size:1rem;
+			outline:0;
+			box-sizing: border-box;
+			margin-bottom: 1em;
+			border:1px solid $primaryColor;
+			font-family: $fontStack;
+		}
+		input:focus {
+			border-bottom-width: 3px;
+		}
+		input[type='submit'] {
+			background-color: $primaryColor;
+			cursor: pointer;
+		}
+	}
+}
+
+
+form.queries {
+	input[type='search'] {
+		width:100%;
+		padding:0.5em 0;
+		border:0;
+		border-bottom:2px solid;
+		font-size:2em;
+		font-family:$fontStack;
+		color:$primaryColor;
+		margin-bottom:1em;
+	}
+	input:focus {
+		outline:0;
+	}
+}
+table.results {
+	table-layout: fixed;
+	margin-bottom:4em;
+	th.invNo {
+		width:10%;
+	}
+	th.figure {
+		width:20%;
+	}
+	td {
+		vertical-align: top;
+	}
+}
+
+a.panel-button {
+	padding:1em;
+	background: $primaryColor;
+	border-radius:3px;
+	font-weight:bold;
+	margin-top:3em;
+	color:#FFF;
+	display:inline-block;
+}
 
 .timeline {
 	position: relative;
@@ -1287,3 +1433,34 @@ figure {
 // 	border: 1px solid;
 // 	border-radius: 5em;
 // }
+
+@media print {
+	body, html {
+		max-width:7in;
+	}
+	body {
+		margin: 0;
+	}
+	header {
+		display:none;
+		visibility: hidden;
+	}
+	.print {
+		display:none;
+	}
+	main {
+		section {
+			&.content {
+				padding:0;
+			}
+		}
+		.default {
+			.text {
+				max-width:100%;
+				width:100%;
+				padding:0;
+			}
+		}
+	}
+
+}

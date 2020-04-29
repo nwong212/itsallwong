@@ -1,0 +1,51 @@
+Title: 2017
+
+----
+
+Objectsselect: 
+
+- 2017/meditate
+- 2017/rattan-baller
+- 2017/men-in-uniform
+- 2017/in-the-garden
+- 2017/poppy-study
+
+----
+
+Exhibitiondate: 2019-10-12
+
+----
+
+Objectsimage: true
+
+----
+
+Objectsinv: true
+
+----
+
+Objectsprice: true
+
+----
+
+Objectsmaterial: true
+
+----
+
+Objectssize: true
+
+----
+
+Objectsinstall: true
+
+----
+
+Objectslocation: true
+
+----
+
+Securedpageenabled: true
+
+----
+
+Securedpageroles: 

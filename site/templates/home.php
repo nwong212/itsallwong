@@ -8,10 +8,12 @@ $projects = $site->index()->listed()->filterBy('template', 'art_project'); ?>
 		  $n = 0;
 		  foreach ($projects as $project):
 			  $n++;
+
+				$coverimage = $project->cover()->toFile();
 		  ?>
 			<a class="exempt" href="<?php echo $project->url() ?>">
 				<figure>
-					<?php echo $project->cover()->toFile(); ?>
+					<img src="<?php echo $coverimage->resize(1024, null, 80)->url(); ?>" alt="<?php echo $project->title(); ?>">
 					<!-- <figcaption>
 					<?php // echo kirbytext($project->title())?>
 				</figcaption> -->

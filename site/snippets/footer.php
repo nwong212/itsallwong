@@ -32,27 +32,20 @@
      </footer> -->
 
 
-
-<!--[if lt IE 8]><!-->
-<link rel="stylesheet" href="<?= url('assets/ie7/ie7.css') ?>">
-<!--<![endif]-->
-
-<?php echo css('assets/styles/responsive-nav.min.css'); ?>
 <!-- custom css -->
 <?php foreach($page->files()->filterBy('extension', 'css') as $css): ?>
 <?php echo css($css->url()) ?>
 <?php endforeach ?>
 
-<?php echo css('assets/styles/project.min.css');
-      echo css('assets/styles/fonts.css');
+<?php
       echo css('assets/ATC-HARRIS-KIT/ATCH-Harris.min.css'); ?>
 
   <?php
       	echo js('assets/js/responsive-nav.min.js');
         echo '<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>';
-        echo js('/assets/js/main.js');
+        // echo js('/assets/js/main.js');
         // echo js('/assets/js/headroom.js');
-        echo js('/assets/js/site.js');
+        // echo js('/assets/js/site.js');
   ?>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.2.0/imagesloaded.pkgd.min.js"></script>
@@ -113,7 +106,7 @@
 
 	</script>
 
-	<?php snippet('google-anal') ?>
+	<?php snippet('google-anal');?>
 </body>
 
 </html>
